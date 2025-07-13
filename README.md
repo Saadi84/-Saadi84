@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Data Analyst | Self-learner | Excel • Python • SQL</h3>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/saadi](https://www.linkedin.com/in/saud-ahmed-3b5536265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/saud-ahmed-3b5536265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/Saadi84" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" /></a>
 </p>
 
